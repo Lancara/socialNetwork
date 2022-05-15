@@ -1,0 +1,31 @@
+.loginTitle{
+    margin-left: 10px;
+}
+.loginEmail{
+    margin-left: 10px;
+}
+.loginPassword{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.loginCheckbox{
+    margin-left: 10px;
+}
+.loginRemember{
+    margin-left: 10px;
+}
+.loginButton{
+    width: 70px;
+    height: 22px;
+    margin-top: 5px;
+    margin-left: 10px;
+    box-shadow: 0 1px 0px #3c354a;
+    border-radius: 5%;
+}
+.loginButton:hover{
+    transition-duration: 0.1s;
+    box-shadow: 0 0px 0px #3c354a;
+    border-radius: 5%;
+    background-color: lightgray;
+}
+

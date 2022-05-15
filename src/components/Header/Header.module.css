@@ -1,0 +1,22 @@
+.header{
+    padding: 5px;
+    grid-area: h;
+    background-color: gold;
+}
+.headerTitle{
+    width:150px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 18px;
+}
+.loginBlock {
+    margin-top: -22px;
+    margin-right: 20px;
+    float: right;
+}
+.loginBlocButton{
+    text-decoration: none;
+}
+.loginBlocButton:hover{
+    color: white;
+}

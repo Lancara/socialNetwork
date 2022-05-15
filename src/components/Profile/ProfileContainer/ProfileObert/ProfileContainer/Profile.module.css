@@ -1,0 +1,24 @@
+.postButton{
+    height: 22px;
+    width: 85px;
+    height: 25px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 1px 0px #3c354a;
+    border-radius: 5%;
+}
+.postButton:hover{
+    transition-duration: 0.1s;
+    box-shadow: 0 0px 0px #3c354a;
+    border-radius: 5%;
+    background-color: lightgray;
+}
+.postField{
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+.postOutputWorld{
+    margin-top: 10px;
+
+}

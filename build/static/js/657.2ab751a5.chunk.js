@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkuntitled1=self.webpackChunkuntitled1||[]).push([[657],{7657:function(n,t,u){u.r(t),u.d(t,{default:function(){return l}});u(2791);var e=u(364);var i=u(9271).l_,r=u(184),c=function(n){return n.isAuth?(0,r.jsx)("div",{children:"df"}):(0,r.jsx)(i,{to:"/login"})},f=u(1548),l=(0,u(7781).qC)((0,e.$j)((function(n){return{}}),(function(n){})),f.D)(c)}}]);
+//# sourceMappingURL=657.2ab751a5.chunk.js.map
